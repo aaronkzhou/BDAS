@@ -1,0 +1,517 @@
+﻿Occupation,Category,All_workers,M_workers,M_weekly,F_workers,F_weekly
+Chief executives,MANAGEMENT,1046.0,763.0,2251.0,283.0,1836.0
+General and operations managers,MANAGEMENT,823.0,621.0,1347.0,202.0,1002.0
+Marketing and sales managers,MANAGEMENT,948.0,570.0,1603.0,378.0,1258.0
+Administrative services managers,MANAGEMENT,170.0,96.0,1451.0,73.0,981.0
+Computer and information systems managers,MANAGEMENT,636.0,466.0,1817.0,169.0,1563.0
+Financial managers,MANAGEMENT,1124.0,551.0,1732.0,573.0,1130.0
+Human resources managers,MANAGEMENT,254.0,68.0,1495.0,186.0,1274.0
+"Transportation, storage, and distribution managers",MANAGEMENT,276.0,224.0,1006.0,52.0,749.0
+Education administrators,MANAGEMENT,778.0,282.0,1585.0,496.0,1252.0
+Food service managers,MANAGEMENT,763.0,389.0,820.0,374.0,680.0
+Lodging managers,MANAGEMENT,123.0,54.0,1171.0,68.0,902.0
+Medical and health services managers,MANAGEMENT,592.0,154.0,1422.0,438.0,1156.0
+"Property, real estate, and community association managers",MANAGEMENT,401.0,171.0,1137.0,230.0,823.0
+Social and community service managers,MANAGEMENT,305.0,105.0,1142.0,200.0,965.0
+"Managers, all other",MANAGEMENT,2803.0,1717.0,1525.0,1085.0,1213.0
+"Wholesale and retail buyers, except farm products",BUSINESS,142.0,73.0,886.0,69.0,985.0
+"Purchasing agents, except wholesale, retail, and farm products",BUSINESS,260.0,136.0,1020.0,124.0,986.0
+"Claims adjusters, appraisers, examiners, and investigators",BUSINESS,317.0,141.0,1134.0,176.0,824.0
+Compliance officers,BUSINESS,235.0,126.0,1375.0,109.0,1025.0
+Human resources workers,BUSINESS,592.0,151.0,1158.0,441.0,984.0
+Logisticians,BUSINESS,111.0,66.0,1075.0,44.0,Na
+Management analysts,BUSINESS,529.0,291.0,1519.0,237.0,1348.0
+"Meeting, convention, and event planners",BUSINESS,117.0,27.0,Na,90.0,840.0
+Fundraisers,BUSINESS,62.0,14.0,Na,48.0,Na
+Market research analysts and marketing specialists,BUSINESS,203.0,85.0,1411.0,118.0,1239.0
+"Business operations specialists, all other",BUSINESS,186.0,74.0,1461.0,112.0,969.0
+Accountants and auditors,BUSINESS,1464.0,618.0,1345.0,846.0,988.0
+Appraisers and assessors of real estate,BUSINESS,42.0,21.0,Na,21.0,Na
+Budget analysts,BUSINESS,44.0,17.0,Na,28.0,Na
+Credit analysts,BUSINESS,17.0,8.0,Na,9.0,Na
+Financial analysts,BUSINESS,295.0,168.0,1680.0,127.0,1171.0
+Personal financial advisors,BUSINESS,407.0,248.0,1738.0,159.0,1033.0
+Insurance underwriters,BUSINESS,106.0,44.0,Na,63.0,956.0
+Financial examiners,BUSINESS,17.0,9.0,Na,8.0,Na
+Credit counselors and loan officers,BUSINESS,313.0,146.0,1186.0,166.0,906.0
+"Tax examiners and collectors, and revenue agents",BUSINESS,59.0,20.0,Na,39.0,Na
+Tax preparers,BUSINESS,56.0,19.0,Na,37.0,Na
+"Financial specialists, all other",BUSINESS,66.0,25.0,Na,40.0,Na
+Computer and information research scientists,COMPUTATIONAL,28.0,23.0,Na,5.0,Na
+Computer systems analysts,COMPUTATIONAL,499.0,325.0,1462.0,173.0,1256.0
+Information security analysts,COMPUTATIONAL,67.0,56.0,1562.0,11.0,Na
+Computer programmers,COMPUTATIONAL,450.0,357.0,1501.0,93.0,1302.0
+"Software developers, applications and systems software",COMPUTATIONAL,1287.0,1054.0,1751.0,232.0,1415.0
+Web developers,COMPUTATIONAL,151.0,98.0,1233.0,53.0,1026.0
+Computer support specialists,COMPUTATIONAL,396.0,291.0,1135.0,105.0,908.0
+Database administrators,COMPUTATIONAL,90.0,58.0,1829.0,32.0,Na
+Network and computer systems administrators,COMPUTATIONAL,208.0,179.0,1266.0,28.0,Na
+Computer network architects,COMPUTATIONAL,115.0,100.0,1577.0,15.0,Na
+"Computer occupations, all other",COMPUTATIONAL,490.0,374.0,1252.0,116.0,1145.0
+Actuaries,COMPUTATIONAL,24.0,18.0,Na,6.0,Na
+Mathematicians,COMPUTATIONAL,6.0,6.0,Na,0.0,Na
+Operations research analysts,COMPUTATIONAL,122.0,59.0,1574.0,63.0,1325.0
+Statisticians,COMPUTATIONAL,76.0,37.0,Na,39.0,Na
+Miscellaneous mathematical science occupations,COMPUTATIONAL,1.0,1.0,Na,0.0,Na
+"Architects, except naval",ENGINEERING,138.0,106.0,1492.0,31.0,Na
+"Surveyors, cartographers, and photogrammetrists",ENGINEERING,29.0,23.0,Na,6.0,Na
+Aerospace engineers,ENGINEERING,140.0,122.0,1668.0,18.0,Na
+Agricultural engineers,ENGINEERING,5.0,5.0,Na,0.0,Na
+Biomedical engineers,ENGINEERING,12.0,10.0,Na,2.0,Na
+Chemical engineers,ENGINEERING,79.0,69.0,1583.0,10.0,Na
+Civil engineers,ENGINEERING,316.0,275.0,1474.0,41.0,Na
+Computer hardware engineers,ENGINEERING,72.0,62.0,1871.0,10.0,Na
+Electrical and electronics engineers,ENGINEERING,283.0,246.0,1819.0,37.0,Na
+Environmental engineers,ENGINEERING,35.0,26.0,Na,9.0,Na
+"Industrial engineers, including health and safety",ENGINEERING,205.0,168.0,1430.0,37.0,Na
+Marine engineers and naval architects,ENGINEERING,9.0,9.0,Na,0.0,Na
+Materials engineers,ENGINEERING,36.0,33.0,Na,4.0,Na
+Mechanical engineers,ENGINEERING,316.0,294.0,1550.0,23.0,Na
+"Mining and geological engineers, including mining safety engineers",ENGINEERING,15.0,15.0,Na,0.0,Na
+Nuclear engineers,ENGINEERING,5.0,3.0,Na,2.0,Na
+Petroleum engineers,ENGINEERING,43.0,39.0,Na,3.0,Na
+"Engineers, all other",ENGINEERING,393.0,339.0,1537.0,54.0,1448.0
+Drafters,ENGINEERING,114.0,91.0,977.0,23.0,Na
+"Engineering technicians, except drafters",ENGINEERING,352.0,284.0,984.0,68.0,827.0
+Surveying and mapping technicians,ENGINEERING,58.0,54.0,1031.0,4.0,Na
+Agricultural and food scientists,SCIENCE,22.0,12.0,Na,10.0,Na
+Biological scientists,SCIENCE,74.0,46.0,Na,28.0,Na
+Conservation scientists and foresters,SCIENCE,23.0,16.0,Na,7.0,Na
+Medical scientists,SCIENCE,151.0,68.0,1362.0,84.0,1082.0
+"Life scientists, all other",SCIENCE,1.0,1.0,Na,0.0,Na
+Astronomers and physicists,SCIENCE,14.0,11.0,Na,3.0,Na
+Atmospheric and space scientists,SCIENCE,8.0,8.0,Na,1.0,Na
+Chemists and materials scientists,SCIENCE,93.0,61.0,1496.0,33.0,Na
+Environmental scientists and geoscientists,SCIENCE,90.0,65.0,1740.0,25.0,Na
+"Physical scientists, all other",SCIENCE,189.0,121.0,1770.0,68.0,1170.0
+Economists,SCIENCE,29.0,17.0,Na,12.0,Na
+Survey researchers,SCIENCE,0.0,0.0,Na,0.0,Na
+Psychologists,SCIENCE,114.0,31.0,Na,83.0,1189.0
+Sociologists,SCIENCE,0.0,0.0,Na,0.0,Na
+Urban and regional planners,SCIENCE,22.0,13.0,Na,9.0,Na
+Miscellaneous social scientists and related workers,SCIENCE,37.0,19.0,Na,19.0,Na
+Agricultural and food science technicians,SCIENCE,28.0,21.0,Na,7.0,Na
+Biological technicians,SCIENCE,20.0,10.0,Na,10.0,Na
+Chemical technicians,SCIENCE,75.0,43.0,Na,32.0,Na
+Geological and petroleum technicians,SCIENCE,22.0,18.0,Na,4.0,Na
+Nuclear technicians,SCIENCE,2.0,2.0,Na,0.0,Na
+Social science research assistants,SCIENCE,3.0,0.0,Na,3.0,Na
+"Miscellaneous life, physical, and social science technicians",SCIENCE,157.0,79.0,1001.0,78.0,780.0
+Counselors,SOCIAL SERVICE,635.0,184.0,908.0,451.0,902.0
+Social workers,SOCIAL SERVICE,677.0,127.0,943.0,549.0,862.0
+Probation officers and correctional treatment specialists,SOCIAL SERVICE,85.0,42.0,Na,43.0,Na
+Social and human service assistants,SOCIAL SERVICE,173.0,23.0,Na,149.0,673.0
+"Miscellaneous community and social service specialists, including health educators and community health workers",SOCIAL SERVICE,92.0,29.0,Na,63.0,728.0
+Clergy,SOCIAL SERVICE,376.0,316.0,1021.0,60.0,924.0
+"Directors, religious activities and education",SOCIAL SERVICE,62.0,31.0,Na,31.0,Na
+"Religious workers, all other",SOCIAL SERVICE,44.0,23.0,Na,21.0,Na
+Lawyers,LEGAL,803.0,503.0,1914.0,300.0,1717.0
+Judicial law clerks,LEGAL,11.0,1.0,Na,10.0,Na
+"Judges, magistrates, and other judicial workers",LEGAL,54.0,33.0,Na,20.0,Na
+Paralegals and legal assistants,LEGAL,341.0,47.0,Na,294.0,910.0
+Miscellaneous legal support workers,LEGAL,136.0,40.0,Na,97.0,746.0
+Postsecondary teachers,EDUCATION,917.0,516.0,1405.0,401.0,1144.0
+Preschool and kindergarten teachers,EDUCATION,517.0,11.0,Na,506.0,618.0
+Elementary and middle school teachers,EDUCATION,2806.0,543.0,1077.0,2262.0,957.0
+Secondary school teachers,EDUCATION,1048.0,438.0,1149.0,610.0,1006.0
+Special education teachers,EDUCATION,297.0,38.0,Na,258.0,990.0
+Other teachers and instructors,EDUCATION,378.0,179.0,1024.0,199.0,817.0
+"Archivists, curators, and museum technicians",EDUCATION,38.0,18.0,Na,20.0,Na
+Librarians,EDUCATION,130.0,27.0,Na,102.0,966.0
+Library technicians,EDUCATION,18.0,4.0,Na,15.0,Na
+Teacher assistants,EDUCATION,614.0,48.0,Na,565.0,530.0
+"Other education, training, and library workers",EDUCATION,123.0,28.0,Na,95.0,1031.0
+Artists and related workers,ARTS,58.0,39.0,Na,20.0,Na
+Designers,ARTS,593.0,301.0,1099.0,291.0,918.0
+Actors,ARTS,12.0,8.0,Na,4.0,Na
+Producers and directors,ARTS,120.0,67.0,1340.0,53.0,1234.0
+"Athletes, coaches, umpires, and related workers",ARTS,147.0,108.0,818.0,39.0,Na
+Dancers and choreographers,ARTS,11.0,2.0,Na,9.0,Na
+"Musicians, singers, and related workers",ARTS,42.0,33.0,Na,9.0,Na
+"Entertainers and performers, sports and related workers, all other",ARTS,14.0,11.0,Na,3.0,Na
+Announcers,ARTS,25.0,21.0,Na,5.0,Na
+"News analysts, reporters and correspondents",ARTS,56.0,29.0,Na,27.0,Na
+Public relations specialists,ARTS,120.0,49.0,Na,71.0,971.0
+Editors,ARTS,108.0,58.0,1205.0,50.0,1125.0
+Technical writers,ARTS,52.0,22.0,Na,30.0,Na
+Writers and authors,ARTS,79.0,36.0,Na,42.0,Na
+Miscellaneous media and communication workers,ARTS,46.0,16.0,Na,30.0,Na
+Broadcast and sound engineering technicians and radio operators,ARTS,83.0,77.0,937.0,7.0,Na
+Photographers,ARTS,45.0,24.0,Na,21.0,Na
+"Television, video, and motion picture camera operators and editors",ARTS,30.0,28.0,Na,1.0,Na
+"Media and communication equipment workers, all other",ARTS,2.0,2.0,Na,0.0,Na
+Chiropractors,HEALTHCARE PROFESSIONAL,22.0,15.0,Na,7.0,Na
+Dentists,HEALTHCARE PROFESSIONAL,59.0,39.0,Na,20.0,Na
+Dietitians and nutritionists,HEALTHCARE PROFESSIONAL,79.0,9.0,Na,69.0,879.0
+Optometrists,HEALTHCARE PROFESSIONAL,19.0,6.0,Na,13.0,Na
+Pharmacists,HEALTHCARE PROFESSIONAL,206.0,98.0,2117.0,108.0,1811.0
+Physicians and surgeons,HEALTHCARE PROFESSIONAL,740.0,457.0,1915.0,283.0,1533.0
+Physician assistants,HEALTHCARE PROFESSIONAL,57.0,17.0,Na,40.0,Na
+Podiatrists,HEALTHCARE PROFESSIONAL,9.0,5.0,Na,4.0,Na
+Audiologists,HEALTHCARE PROFESSIONAL,8.0,1.0,Na,6.0,Na
+Occupational therapists,HEALTHCARE PROFESSIONAL,74.0,10.0,Na,64.0,1199.0
+Physical therapists,HEALTHCARE PROFESSIONAL,178.0,56.0,1347.0,123.0,1215.0
+Radiation therapists,HEALTHCARE PROFESSIONAL,12.0,5.0,Na,7.0,Na
+Recreational therapists,HEALTHCARE PROFESSIONAL,6.0,2.0,Na,4.0,Na
+Respiratory therapists,HEALTHCARE PROFESSIONAL,99.0,32.0,Na,67.0,937.0
+Speech-language pathologists,HEALTHCARE PROFESSIONAL,108.0,1.0,Na,106.0,1148.0
+Exercise physiologists,HEALTHCARE PROFESSIONAL,3.0,3.0,Na,0.0,Na
+"Therapists, all other",HEALTHCARE PROFESSIONAL,132.0,31.0,Na,101.0,951.0
+Veterinarians,HEALTHCARE PROFESSIONAL,55.0,16.0,Na,39.0,Na
+Registered nurses,HEALTHCARE PROFESSIONAL,2382.0,278.0,1222.0,2104.0,1098.0
+Nurse anesthetists,HEALTHCARE PROFESSIONAL,23.0,11.0,Na,12.0,Na
+Nurse midwives,HEALTHCARE PROFESSIONAL,6.0,0.0,Na,6.0,Na
+Nurse practitioners,HEALTHCARE PROFESSIONAL,115.0,11.0,Na,103.0,1522.0
+"Health diagnosing and treating practitioners, all other",HEALTHCARE PROFESSIONAL,2.0,0.0,Na,2.0,Na
+Clinical laboratory technologists and technicians,HEALTHCARE PROFESSIONAL,270.0,69.0,1089.0,201.0,796.0
+Dental hygienists,HEALTHCARE PROFESSIONAL,86.0,6.0,Na,80.0,953.0
+Diagnostic related technologists and technicians,HEALTHCARE PROFESSIONAL,253.0,76.0,1106.0,177.0,908.0
+Emergency medical technicians and paramedics,HEALTHCARE PROFESSIONAL,175.0,126.0,899.0,49.0,Na
+Health practitioner support technologists and technicians,HEALTHCARE PROFESSIONAL,487.0,99.0,652.0,389.0,633.0
+Licensed practical and licensed vocational nurses,HEALTHCARE PROFESSIONAL,508.0,48.0,Na,459.0,737.0
+Medical records and health information technicians,HEALTHCARE PROFESSIONAL,174.0,17.0,Na,157.0,723.0
+"Opticians, dispensing",HEALTHCARE PROFESSIONAL,44.0,21.0,Na,23.0,Na
+Miscellaneous health technologists and technicians,HEALTHCARE PROFESSIONAL,99.0,32.0,Na,66.0,642.0
+Other healthcare practitioners and technical occupations,HEALTHCARE PROFESSIONAL,78.0,40.0,Na,38.0,Na
+"Nursing, psychiatric, and home health aides",HEALTHCARE SUPPORT,1400.0,163.0,526.0,1237.0,457.0
+Occupational therapy assistants and aides,HEALTHCARE SUPPORT,17.0,4.0,Na,12.0,Na
+Physical therapist assistants and aides,HEALTHCARE SUPPORT,53.0,18.0,Na,35.0,Na
+Massage therapists,HEALTHCARE SUPPORT,37.0,16.0,Na,22.0,Na
+Dental assistants,HEALTHCARE SUPPORT,188.0,14.0,Na,175.0,522.0
+Medical assistants,HEALTHCARE SUPPORT,422.0,35.0,Na,387.0,530.0
+Medical transcriptionists,HEALTHCARE SUPPORT,28.0,3.0,Na,26.0,Na
+Pharmacy aides,HEALTHCARE SUPPORT,22.0,4.0,Na,18.0,Na
+Veterinary assistants and laboratory animal caretakers,HEALTHCARE SUPPORT,21.0,4.0,Na,17.0,Na
+Phlebotomists,HEALTHCARE SUPPORT,91.0,15.0,Na,76.0,534.0
+"Miscellaneous healthcare support occupations, including medical equipment preparers",HEALTHCARE SUPPORT,115.0,44.0,Na,71.0,511.0
+First-line supervisors of correctional officers,PROTECTIVE SERVICE,57.0,41.0,Na,16.0,Na
+First-line supervisors of police and detectives,PROTECTIVE SERVICE,114.0,97.0,1425.0,17.0,Na
+First-line supervisors of fire fighting and prevention workers,PROTECTIVE SERVICE,42.0,39.0,Na,3.0,Na
+"First-line supervisors of protective service workers, all other",PROTECTIVE SERVICE,72.0,56.0,825.0,16.0,Na
+Firefighters,PROTECTIVE SERVICE,260.0,245.0,1052.0,16.0,Na
+Fire inspectors,PROTECTIVE SERVICE,18.0,15.0,Na,3.0,Na
+"Bailiffs, correctional officers, and jailers",PROTECTIVE SERVICE,453.0,341.0,779.0,112.0,686.0
+Detectives and criminal investigators,PROTECTIVE SERVICE,141.0,100.0,1265.0,41.0,Na
+Fish and game wardens,PROTECTIVE SERVICE,6.0,5.0,Na,1.0,Na
+Parking enforcement workers,PROTECTIVE SERVICE,9.0,6.0,Na,3.0,Na
+Police and sheriff's patrol officers,PROTECTIVE SERVICE,655.0,569.0,1001.0,86.0,1009.0
+Transit and railroad police,PROTECTIVE SERVICE,3.0,3.0,Na,0.0,Na
+Animal control workers,PROTECTIVE SERVICE,4.0,2.0,Na,2.0,Na
+Private detectives and investigators,PROTECTIVE SERVICE,85.0,49.0,Na,36.0,Na
+Security guards and gaming surveillance officers,PROTECTIVE SERVICE,708.0,555.0,592.0,153.0,515.0
+Crossing guards,PROTECTIVE SERVICE,26.0,13.0,Na,13.0,Na
+Transportation security screeners,PROTECTIVE SERVICE,33.0,22.0,Na,11.0,Na
+"Lifeguards and other recreational, and all other protective service workers",PROTECTIVE SERVICE,42.0,24.0,Na,18.0,Na
+Chefs and head cooks,CULINARY,340.0,285.0,656.0,55.0,492.0
+First-line supervisors of food preparation and serving workers,CULINARY,378.0,156.0,621.0,222.0,458.0
+Cooks,CULINARY,1302.0,808.0,427.0,494.0,400.0
+Food preparation workers,CULINARY,366.0,174.0,414.0,192.0,388.0
+Bartenders,CULINARY,252.0,110.0,569.0,142.0,493.0
+"Combined food preparation and serving workers, including fast food",CULINARY,173.0,67.0,401.0,107.0,380.0
+"Counter attendants, cafeteria, food concession, and coffee shop",CULINARY,56.0,28.0,Na,28.0,Na
+Waiters and waitresses,CULINARY,868.0,305.0,501.0,563.0,411.0
+"Food servers, nonrestaurant",CULINARY,93.0,31.0,Na,62.0,485.0
+Dining room and cafeteria attendants and bartender helpers,CULINARY,107.0,59.0,389.0,48.0,Na
+Dishwashers,CULINARY,117.0,98.0,401.0,19.0,Na
+"Hosts and hostesses, restaurant, lounge, and coffee shop",CULINARY,66.0,8.0,Na,58.0,397.0
+"Food preparation and serving related workers, all other",CULINARY,6.0,4.0,Na,3.0,Na
+First-line supervisors of housekeeping and janitorial workers,GROUNDSKEEPING,172.0,108.0,700.0,64.0,571.0
+"First-line supervisors of landscaping, lawn service, and groundskeeping workers",GROUNDSKEEPING,80.0,79.0,653.0,1.0,Na
+Janitors and building cleaners,GROUNDSKEEPING,1536.0,1111.0,547.0,425.0,429.0
+Maids and housekeeping cleaners,GROUNDSKEEPING,876.0,134.0,475.0,742.0,407.0
+Pest control workers,GROUNDSKEEPING,77.0,74.0,591.0,3.0,Na
+Grounds maintenance workers,GROUNDSKEEPING,862.0,824.0,473.0,39.0,Na
+First-line supervisors of gaming workers,SERVICE,117.0,65.0,900.0,52.0,680.0
+First-line supervisors of personal service workers,SERVICE,60.0,25.0,Na,35.0,Na
+Animal trainers,SERVICE,26.0,19.0,Na,8.0,Na
+Nonfarm animal caretakers,SERVICE,100.0,32.0,Na,68.0,501.0
+Gaming services workers,SERVICE,69.0,30.0,Na,39.0,Na
+Motion picture projectionists,SERVICE,3.0,3.0,Na,0.0,Na
+"Ushers, lobby attendants, and ticket takers",SERVICE,9.0,5.0,Na,4.0,Na
+Miscellaneous entertainment attendants and related workers,SERVICE,69.0,42.0,Na,28.0,Na
+Embalmers and funeral attendants,SERVICE,2.0,2.0,Na,0.0,Na
+"Morticians, undertakers, and funeral directors",SERVICE,23.0,17.0,Na,7.0,Na
+Barbers,SERVICE,46.0,33.0,Na,12.0,Na
+"Hairdressers, hairstylists, and cosmetologists",SERVICE,253.0,23.0,Na,229.0,463.0
+Miscellaneous personal appearance workers,SERVICE,191.0,32.0,Na,159.0,497.0
+"Baggage porters, bellhops, and concierges",SERVICE,75.0,63.0,606.0,12.0,Na
+Tour and travel guides,SERVICE,21.0,11.0,Na,9.0,Na
+Childcare workers,SERVICE,407.0,14.0,Na,393.0,430.0
+Personal care aides,SERVICE,680.0,128.0,537.0,552.0,441.0
+Recreation and fitness workers,SERVICE,185.0,78.0,684.0,107.0,526.0
+Residential advisors,SERVICE,24.0,8.0,Na,16.0,Na
+"Personal care and service workers, all other",SERVICE,67.0,35.0,Na,32.0,Na
+First-line supervisors of retail sales workers,SALES,2326.0,1296.0,825.0,1030.0,614.0
+First-line supervisors of non-retail sales workers,SALES,835.0,556.0,1140.0,280.0,896.0
+Cashiers,SALES,1342.0,411.0,471.0,931.0,405.0
+Counter and rental clerks,SALES,73.0,35.0,Na,37.0,Na
+Parts salespersons,SALES,92.0,82.0,600.0,11.0,Na
+Retail salespersons,SALES,1918.0,1159.0,694.0,759.0,494.0
+Advertising sales agents,SALES,161.0,78.0,1155.0,83.0,729.0
+Insurance sales agents,SALES,427.0,194.0,1028.0,232.0,717.0
+"Securities, commodities, and financial services sales agents",SALES,211.0,146.0,1461.0,65.0,767.0
+Travel agents,SALES,62.0,9.0,Na,53.0,685.0
+"Sales representatives, services, all other",SALES,406.0,268.0,1147.0,139.0,699.0
+"Sales representatives, wholesale and manufacturing",SALES,1138.0,843.0,1066.0,295.0,917.0
+"Models, demonstrators, and product promoters",SALES,15.0,4.0,Na,11.0,Na
+Real estate brokers and sales agents,SALES,463.0,197.0,1052.0,266.0,735.0
+Sales engineers,SALES,33.0,31.0,Na,2.0,Na
+Telemarketers,SALES,39.0,17.0,Na,21.0,Na
+"Door-to-door sales workers, news and street vendors, and related workers",SALES,28.0,9.0,Na,18.0,Na
+"Sales and related workers, all other",SALES,158.0,89.0,1088.0,70.0,727.0
+First-line supervisors of office and administrative support workers,OFFICE,1297.0,434.0,878.0,863.0,781.0
+"Switchboard operators, including answering service",OFFICE,17.0,7.0,Na,10.0,Na
+Telephone operators,OFFICE,22.0,4.0,Na,18.0,Na
+"Communications equipment operators, all other",OFFICE,5.0,2.0,Na,3.0,Na
+Bill and account collectors,OFFICE,152.0,54.0,674.0,98.0,648.0
+Billing and posting clerks,OFFICE,406.0,39.0,Na,366.0,664.0
+"Bookkeeping, accounting, and auditing clerks",OFFICE,769.0,87.0,690.0,682.0,692.0
+Gaming cage workers,OFFICE,11.0,2.0,Na,10.0,Na
+Payroll and timekeeping clerks,OFFICE,128.0,17.0,Na,111.0,751.0
+Procurement clerks,OFFICE,35.0,15.0,Na,21.0,Na
+Tellers,OFFICE,264.0,33.0,Na,231.0,516.0
+"Financial clerks, all other",OFFICE,61.0,30.0,Na,32.0,Na
+Brokerage clerks,OFFICE,3.0,1.0,Na,1.0,Na
+Correspondence clerks,OFFICE,3.0,1.0,Na,2.0,Na
+"Court, municipal, and license clerks",OFFICE,60.0,9.0,Na,51.0,743.0
+"Credit authorizers, checkers, and clerks",OFFICE,42.0,12.0,Na,29.0,Na
+Customer service representatives,OFFICE,1760.0,611.0,690.0,1149.0,604.0
+"Eligibility interviewers, government programs",OFFICE,67.0,17.0,Na,50.0,805.0
+File clerks,OFFICE,145.0,25.0,Na,120.0,627.0
+"Hotel, motel, and resort desk clerks",OFFICE,127.0,58.0,486.0,69.0,467.0
+"Interviewers, except eligibility and loan",OFFICE,105.0,16.0,Na,89.0,617.0
+"Library assistants, clerical",OFFICE,35.0,7.0,Na,28.0,Na
+Loan interviewers and clerks,OFFICE,134.0,25.0,Na,109.0,722.0
+New accounts clerks,OFFICE,20.0,3.0,Na,17.0,Na
+Order clerks,OFFICE,74.0,26.0,Na,48.0,Na
+"Human resources assistants, except payroll and timekeeping",OFFICE,50.0,11.0,Na,40.0,Na
+Receptionists and information clerks,OFFICE,852.0,72.0,619.0,781.0,569.0
+Reservation and transportation ticket agents and travel clerks,OFFICE,95.0,34.0,Na,61.0,680.0
+"Information and record clerks, all other",OFFICE,100.0,22.0,Na,78.0,616.0
+Cargo and freight agents,OFFICE,20.0,12.0,Na,9.0,Na
+Couriers and messengers,OFFICE,153.0,134.0,750.0,19.0,Na
+Dispatchers,OFFICE,250.0,109.0,759.0,141.0,655.0
+"Meter readers, utilities",OFFICE,39.0,34.0,Na,4.0,Na
+Postal service clerks,OFFICE,127.0,76.0,974.0,51.0,833.0
+Postal service mail carriers,OFFICE,302.0,187.0,1021.0,115.0,854.0
+"Postal service mail sorters, processors, and processing machine operators",OFFICE,53.0,27.0,Na,26.0,Na
+"Production, planning, and expediting clerks",OFFICE,256.0,116.0,978.0,141.0,732.0
+"Shipping, receiving, and traffic clerks",OFFICE,502.0,354.0,604.0,148.0,566.0
+Stock clerks and order fillers,OFFICE,1027.0,651.0,537.0,376.0,506.0
+"Weighers, measurers, checkers, and samplers, recordkeeping",OFFICE,59.0,29.0,Na,31.0,Na
+Secretaries and administrative assistants,OFFICE,2223.0,124.0,786.0,2099.0,683.0
+Computer operators,OFFICE,58.0,25.0,Na,33.0,Na
+Data entry keyers,OFFICE,223.0,55.0,589.0,169.0,638.0
+Word processors and typists,OFFICE,68.0,6.0,Na,62.0,639.0
+Desktop publishers,OFFICE,1.0,1.0,Na,0.0,Na
+Insurance claims and policy processing clerks,OFFICE,259.0,56.0,762.0,203.0,675.0
+"Mail clerks and mail machine operators, except postal service",OFFICE,63.0,24.0,Na,39.0,Na
+"Office clerks, general",OFFICE,929.0,156.0,609.0,773.0,622.0
+"Office machine operators, except computer",OFFICE,31.0,14.0,Na,16.0,Na
+Proofreaders and copy markers,OFFICE,2.0,0.0,Na,2.0,Na
+Statistical assistants,OFFICE,15.0,5.0,Na,10.0,Na
+"Office and administrative support workers, all other",OFFICE,391.0,93.0,852.0,298.0,718.0
+AGRICULTURAL,OFFICE,810.0,637.0,477.0,174.0,437.0
+"First-line supervisors of farming, fishing, and forestry workers",OFFICE,42.0,32.0,Na,10.0,Na
+Agricultural inspectors,OFFICE,12.0,7.0,Na,6.0,Na
+Animal breeders,OFFICE,2.0,2.0,Na,0.0,Na
+"Graders and sorters, agricultural products",OFFICE,83.0,32.0,Na,51.0,468.0
+Miscellaneous agricultural workers,OFFICE,613.0,511.0,460.0,102.0,398.0
+Fishers and related fishing workers,OFFICE,11.0,11.0,Na,0.0,Na
+Hunters and trappers,OFFICE,0.0,0.0,Na,0.0,Na
+Forest and conservation workers,OFFICE,15.0,10.0,Na,5.0,Na
+Logging workers,OFFICE,31.0,31.0,Na,0.0,Na
+First-line supervisors of construction trades and extraction workers,CONSTRUCTION,560.0,540.0,1047.0,20.0,Na
+Boilermakers,CONSTRUCTION,21.0,21.0,Na,0.0,Na
+"Brickmasons, blockmasons, and stonemasons",CONSTRUCTION,122.0,122.0,652.0,0.0,Na
+Carpenters,CONSTRUCTION,802.0,792.0,687.0,10.0,Na
+"Carpet, floor, and tile installers and finishers",CONSTRUCTION,89.0,89.0,634.0,1.0,Na
+"Cement masons, concrete finishers, and terrazzo workers",CONSTRUCTION,44.0,44.0,Na,0.0,Na
+Construction laborers,CONSTRUCTION,1181.0,1155.0,642.0,25.0,Na
+"Paving, surfacing, and tamping equipment operators",CONSTRUCTION,10.0,10.0,Na,0.0,Na
+Pile-driver operators,CONSTRUCTION,2.0,2.0,Na,0.0,Na
+Operating engineers and other construction equipment operators,CONSTRUCTION,324.0,318.0,859.0,6.0,Na
+"Drywall installers, ceiling tile installers, and tapers",CONSTRUCTION,121.0,119.0,595.0,2.0,Na
+Electricians,CONSTRUCTION,651.0,632.0,891.0,19.0,Na
+Glaziers,CONSTRUCTION,33.0,32.0,Na,0.0,Na
+Insulation workers,CONSTRUCTION,43.0,41.0,Na,3.0,Na
+"Painters, construction and maintenance",CONSTRUCTION,344.0,330.0,587.0,14.0,Na
+Paperhangers,CONSTRUCTION,0.0,0.0,Na,0.0,Na
+"Pipelayers, plumbers, pipefitters, and steamfitters",CONSTRUCTION,456.0,455.0,862.0,2.0,Na
+Plasterers and stucco masons,CONSTRUCTION,20.0,19.0,Na,1.0,Na
+Reinforcing iron and rebar workers,CONSTRUCTION,9.0,9.0,Na,0.0,Na
+Roofers,CONSTRUCTION,171.0,170.0,580.0,2.0,Na
+Sheet metal workers,CONSTRUCTION,106.0,100.0,776.0,6.0,Na
+Structural iron and steel workers,CONSTRUCTION,54.0,52.0,864.0,2.0,Na
+Solar photovoltaic installers,CONSTRUCTION,8.0,8.0,Na,0.0,Na
+"Helpers, construction trades",CONSTRUCTION,47.0,47.0,Na,0.0,Na
+Construction and building inspectors,CONSTRUCTION,67.0,58.0,965.0,9.0,Na
+Elevator installers and repairers,CONSTRUCTION,23.0,23.0,Na,0.0,Na
+Fence erectors,CONSTRUCTION,33.0,33.0,Na,0.0,Na
+Hazardous materials removal workers,CONSTRUCTION,39.0,35.0,Na,5.0,Na
+Highway maintenance workers,CONSTRUCTION,91.0,91.0,755.0,0.0,Na
+Rail-track laying and maintenance equipment operators,CONSTRUCTION,9.0,9.0,Na,0.0,Na
+Septic tank servicers and sewer pipe cleaners,CONSTRUCTION,8.0,8.0,Na,0.0,Na
+Miscellaneous construction and related workers,CONSTRUCTION,25.0,23.0,Na,2.0,Na
+"Derrick, rotary drill, and service unit operators, oil, gas, and mining",CONSTRUCTION,28.0,27.0,Na,1.0,Na
+"Earth drillers, except oil and gas",CONSTRUCTION,30.0,30.0,Na,0.0,Na
+"Explosives workers, ordnance handling experts, and blasters",CONSTRUCTION,5.0,5.0,Na,0.0,Na
+Mining machine operators,CONSTRUCTION,68.0,65.0,1098.0,2.0,Na
+"Roof bolters, mining",CONSTRUCTION,3.0,3.0,Na,0.0,Na
+"Roustabouts, oil and gas",CONSTRUCTION,7.0,7.0,Na,0.0,Na
+Helpers--extraction workers,CONSTRUCTION,6.0,6.0,Na,0.0,Na
+Other extraction workers,CONSTRUCTION,61.0,58.0,918.0,3.0,Na
+"First-line supervisors of mechanics, installers, and repairers",MAINTENANCE,270.0,252.0,1033.0,18.0,Na
+"Computer, automated teller, and office machine repairers",MAINTENANCE,194.0,166.0,865.0,28.0,Na
+Radio and telecommunications equipment installers and repairers,MAINTENANCE,139.0,126.0,879.0,13.0,Na
+Avionics technicians,MAINTENANCE,4.0,4.0,Na,0.0,Na
+"Electric motor, power tool, and related repairers",MAINTENANCE,22.0,20.0,Na,1.0,Na
+"Electrical and electronics installers and repairers, transportation equipment",MAINTENANCE,2.0,2.0,Na,0.0,Na
+"Electrical and electronics repairers, industrial and utility",MAINTENANCE,18.0,17.0,Na,0.0,Na
+"Electronic equipment installers and repairers, motor vehicles",MAINTENANCE,17.0,17.0,Na,0.0,Na
+Electronic home entertainment equipment installers and repairers,MAINTENANCE,30.0,28.0,Na,2.0,Na
+Security and fire alarm systems installers,MAINTENANCE,67.0,65.0,913.0,2.0,Na
+Aircraft mechanics and service technicians,MAINTENANCE,133.0,125.0,1032.0,7.0,Na
+Automotive body and related repairers,MAINTENANCE,120.0,118.0,849.0,2.0,Na
+Automotive glass installers and repairers,MAINTENANCE,21.0,20.0,Na,1.0,Na
+Automotive service technicians and mechanics,MAINTENANCE,710.0,694.0,724.0,16.0,Na
+Bus and truck mechanics and diesel engine specialists,MAINTENANCE,327.0,327.0,830.0,0.0,Na
+Heavy vehicle and mobile equipment service technicians and mechanics,MAINTENANCE,206.0,206.0,928.0,0.0,Na
+Small engine mechanics,MAINTENANCE,39.0,39.0,Na,0.0,Na
+"Miscellaneous vehicle and mobile equipment mechanics, installers, and repairers",MAINTENANCE,66.0,65.0,591.0,1.0,Na
+Control and valve installers and repairers,MAINTENANCE,23.0,23.0,Na,0.0,Na
+"Heating, air conditioning, and refrigeration mechanics and installers",MAINTENANCE,341.0,337.0,810.0,4.0,Na
+Home appliance repairers,MAINTENANCE,36.0,36.0,Na,0.0,Na
+Industrial and refractory machinery mechanics,MAINTENANCE,394.0,383.0,894.0,11.0,Na
+"Maintenance and repair workers, general",MAINTENANCE,469.0,459.0,771.0,10.0,Na
+"Maintenance workers, machinery",MAINTENANCE,31.0,30.0,Na,1.0,Na
+Millwrights,MAINTENANCE,49.0,48.0,Na,1.0,Na
+Electrical power-line installers and repairers,MAINTENANCE,113.0,112.0,1105.0,0.0,Na
+Telecommunications line installers and repairers,MAINTENANCE,157.0,148.0,880.0,9.0,Na
+Precision instrument and equipment repairers,MAINTENANCE,64.0,60.0,1009.0,4.0,Na
+Wind turbine service technicians,MAINTENANCE,3.0,3.0,Na,0.0,Na
+"Coin, vending, and amusement machine servicers and repairers",MAINTENANCE,38.0,34.0,Na,4.0,Na
+Commercial divers,MAINTENANCE,1.0,1.0,Na,0.0,Na
+Locksmiths and safe repairers,MAINTENANCE,12.0,12.0,Na,0.0,Na
+Manufactured building and mobile home installers,MAINTENANCE,4.0,4.0,Na,1.0,Na
+Riggers,MAINTENANCE,7.0,7.0,Na,0.0,Na
+Signal and track switch repairers,MAINTENANCE,9.0,9.0,Na,0.0,Na
+"Helpers--installation, maintenance, and repair workers",MAINTENANCE,17.0,17.0,Na,0.0,Na
+"Other installation, maintenance, and repair workers",MAINTENANCE,150.0,144.0,810.0,6.0,Na
+First-line supervisors of production and operating workers,PRODUCTION,783.0,650.0,924.0,133.0,623.0
+"Aircraft structure, surfaces, rigging, and systems assemblers",PRODUCTION,15.0,11.0,Na,4.0,Na
+"Electrical, electronics, and electromechanical assemblers",PRODUCTION,123.0,59.0,566.0,64.0,544.0
+Engine and other machine assemblers,PRODUCTION,14.0,12.0,Na,2.0,Na
+Structural metal fabricators and fitters,PRODUCTION,31.0,28.0,Na,3.0,Na
+Miscellaneous assemblers and fabricators,PRODUCTION,950.0,573.0,637.0,377.0,512.0
+Bakers,PRODUCTION,150.0,69.0,570.0,80.0,475.0
+"Butchers and other meat, poultry, and fish processing workers",PRODUCTION,247.0,187.0,582.0,60.0,463.0
+"Food and tobacco roasting, baking, and drying machine operators and tenders",PRODUCTION,9.0,7.0,Na,1.0,Na
+Food batchmakers,PRODUCTION,79.0,25.0,Na,54.0,489.0
+Food cooking machine operators and tenders,PRODUCTION,7.0,5.0,Na,2.0,Na
+"Food processing workers, all other",PRODUCTION,132.0,82.0,679.0,50.0,508.0
+Computer control programmers and operators,PRODUCTION,83.0,81.0,857.0,2.0,Na
+"Extruding and drawing machine setters, operators, and tenders, metal and plastic",PRODUCTION,8.0,7.0,Na,1.0,Na
+"Forging machine setters, operators, and tenders, metal and plastic",PRODUCTION,6.0,6.0,Na,0.0,Na
+"Rolling machine setters, operators, and tenders, metal and plastic",PRODUCTION,15.0,12.0,Na,3.0,Na
+"Cutting, punching, and press machine setters, operators, and tenders, metal and plastic",PRODUCTION,78.0,62.0,674.0,15.0,Na
+"Drilling and boring machine tool setters, operators, and tenders, metal and plastic",PRODUCTION,5.0,5.0,Na,1.0,Na
+"Grinding, lapping, polishing, and buffing machine tool setters, operators, and tenders, metal and plastic",PRODUCTION,41.0,39.0,Na,3.0,Na
+"Lathe and turning machine tool setters, operators, and tenders, metal and plastic",PRODUCTION,12.0,11.0,Na,1.0,Na
+"Milling and planing machine setters, operators, and tenders, metal and plastic",PRODUCTION,1.0,1.0,Na,0.0,Na
+Machinists,PRODUCTION,338.0,320.0,840.0,17.0,Na
+"Metal furnace operators, tenders, pourers, and casters",PRODUCTION,29.0,28.0,Na,1.0,Na
+"Model makers and patternmakers, metal and plastic",PRODUCTION,6.0,3.0,Na,3.0,Na
+"Molders and molding machine setters, operators, and tenders, metal and plastic",PRODUCTION,47.0,39.0,Na,9.0,Na
+"Multiple machine tool setters, operators, and tenders, metal and plastic",PRODUCTION,1.0,1.0,Na,0.0,Na
+Tool and die makers,PRODUCTION,49.0,49.0,Na,0.0,Na
+"Welding, soldering, and brazing workers",PRODUCTION,568.0,545.0,767.0,23.0,Na
+"Heat treating equipment setters, operators, and tenders, metal and plastic",PRODUCTION,4.0,4.0,Na,0.0,Na
+"Layout workers, metal and plastic",PRODUCTION,4.0,4.0,Na,1.0,Na
+"Plating and coating machine setters, operators, and tenders, metal and plastic",PRODUCTION,24.0,24.0,Na,0.0,Na
+"Tool grinders, filers, and sharpeners",PRODUCTION,7.0,7.0,Na,0.0,Na
+"Metal workers and plastic workers, all other",PRODUCTION,351.0,278.0,678.0,72.0,581.0
+Prepress technicians and workers,PRODUCTION,14.0,12.0,Na,2.0,Na
+Printing press operators,PRODUCTION,160.0,134.0,729.0,26.0,Na
+Print binding and finishing workers,PRODUCTION,16.0,9.0,Na,6.0,Na
+Laundry and dry-cleaning workers,PRODUCTION,133.0,53.0,487.0,80.0,460.0
+"Pressers, textile, garment, and related materials",PRODUCTION,21.0,9.0,Na,12.0,Na
+Sewing machine operators,PRODUCTION,147.0,42.0,Na,105.0,476.0
+Shoe and leather workers and repairers,PRODUCTION,5.0,4.0,Na,1.0,Na
+Shoe machine operators and tenders,PRODUCTION,1.0,0.0,Na,1.0,Na
+"Tailors, dressmakers, and sewers",PRODUCTION,37.0,9.0,Na,27.0,Na
+Textile bleaching and dyeing machine operators and tenders,PRODUCTION,2.0,2.0,Na,0.0,Na
+"Textile cutting machine setters, operators, and tenders",PRODUCTION,9.0,7.0,Na,2.0,Na
+"Textile knitting and weaving machine setters, operators, and tenders",PRODUCTION,8.0,3.0,Na,4.0,Na
+"Textile winding, twisting, and drawing out machine setters, operators, and tenders",PRODUCTION,7.0,5.0,Na,2.0,Na
+"Extruding and forming machine setters, operators, and tenders, synthetic and glass fibers",PRODUCTION,0.0,0.0,Na,0.0,Na
+Fabric and apparel patternmakers,PRODUCTION,4.0,3.0,Na,1.0,Na
+Upholsterers,PRODUCTION,29.0,21.0,Na,7.0,Na
+"Textile, apparel, and furnishings workers, all other",PRODUCTION,16.0,12.0,Na,4.0,Na
+Cabinetmakers and bench carpenters,PRODUCTION,40.0,38.0,Na,2.0,Na
+Furniture finishers,PRODUCTION,6.0,6.0,Na,0.0,Na
+"Model makers and patternmakers, wood",PRODUCTION,0.0,0.0,Na,0.0,Na
+"Sawing machine setters, operators, and tenders, wood",PRODUCTION,26.0,22.0,Na,4.0,Na
+"Woodworking machine setters, operators, and tenders, except sawing",PRODUCTION,23.0,21.0,Na,1.0,Na
+"Woodworkers, all other",PRODUCTION,17.0,14.0,Na,3.0,Na
+"Power plant operators, distributors, and dispatchers",PRODUCTION,35.0,34.0,Na,1.0,Na
+Stationary engineers and boiler operators,PRODUCTION,84.0,81.0,1012.0,3.0,Na
+Water and wastewater treatment plant and system operators,PRODUCTION,82.0,79.0,868.0,3.0,Na
+Miscellaneous plant and system operators,PRODUCTION,35.0,33.0,Na,3.0,Na
+"Chemical processing machine setters, operators, and tenders",PRODUCTION,62.0,57.0,1082.0,5.0,Na
+"Crushing, grinding, polishing, mixing, and blending workers",PRODUCTION,82.0,75.0,668.0,7.0,Na
+Cutting workers,PRODUCTION,51.0,41.0,Na,9.0,Na
+"Extruding, forming, pressing, and compacting machine setters, operators, and tenders",PRODUCTION,31.0,25.0,Na,6.0,Na
+"Furnace, kiln, oven, drier, and kettle operators and tenders",PRODUCTION,6.0,5.0,Na,0.0,Na
+"Inspectors, testers, sorters, samplers, and weighers",PRODUCTION,701.0,440.0,844.0,260.0,583.0
+Jewelers and precious stone and metal workers,PRODUCTION,19.0,11.0,Na,7.0,Na
+"Medical, dental, and ophthalmic laboratory technicians",PRODUCTION,86.0,44.0,Na,42.0,Na
+Packaging and filling machine operators and tenders,PRODUCTION,239.0,118.0,605.0,120.0,482.0
+Painting workers,PRODUCTION,129.0,110.0,733.0,18.0,Na
+Photographic process workers and processing machine operators,PRODUCTION,26.0,12.0,Na,14.0,Na
+Semiconductor processors,PRODUCTION,1.0,1.0,Na,0.0,Na
+Adhesive bonding machine operators and tenders,PRODUCTION,9.0,5.0,Na,4.0,Na
+"Cleaning, washing, and metal pickling equipment operators and tenders",PRODUCTION,4.0,2.0,Na,1.0,Na
+Cooling and freezing equipment operators and tenders,PRODUCTION,4.0,3.0,Na,0.0,Na
+Etchers and engravers,PRODUCTION,12.0,8.0,Na,4.0,Na
+"Molders, shapers, and casters, except metal and plastic",PRODUCTION,14.0,12.0,Na,2.0,Na
+"Paper goods machine setters, operators, and tenders",PRODUCTION,27.0,22.0,Na,5.0,Na
+Tire builders,PRODUCTION,8.0,8.0,Na,0.0,Na
+Helpers--production workers,PRODUCTION,24.0,18.0,Na,7.0,Na
+"Production workers, all other",PRODUCTION,846.0,643.0,666.0,203.0,501.0
+Supervisors of transportation and material moving workers,TRANSPORTATION,186.0,153.0,898.0,33.0,Na
+Aircraft pilots and flight engineers,TRANSPORTATION,114.0,104.0,1830.0,9.0,Na
+Air traffic controllers and airfield operations specialists,TRANSPORTATION,32.0,24.0,Na,8.0,Na
+Flight attendants,TRANSPORTATION,63.0,20.0,Na,43.0,Na
+"Ambulance drivers and attendants, except emergency medical technicians",TRANSPORTATION,18.0,14.0,Na,4.0,Na
+Bus drivers,TRANSPORTATION,323.0,184.0,681.0,138.0,572.0
+Driver/sales workers and truck drivers,TRANSPORTATION,2687.0,2582.0,751.0,105.0,632.0
+Taxi drivers and chauffeurs,TRANSPORTATION,253.0,216.0,600.0,38.0,Na
+"Motor vehicle operators, all other",TRANSPORTATION,21.0,18.0,Na,3.0,Na
+Locomotive engineers and operators,TRANSPORTATION,44.0,42.0,Na,2.0,Na
+"Railroad brake, signal, and switch operators",TRANSPORTATION,5.0,5.0,Na,0.0,Na
+Railroad conductors and yardmasters,TRANSPORTATION,55.0,52.0,1137.0,4.0,Na
+"Subway, streetcar, and other rail transportation workers",TRANSPORTATION,15.0,12.0,Na,3.0,Na
+Sailors and marine oilers,TRANSPORTATION,10.0,9.0,Na,0.0,Na
+Ship and boat captains and operators,TRANSPORTATION,29.0,28.0,Na,1.0,Na
+Ship engineers,TRANSPORTATION,5.0,4.0,Na,1.0,Na
+Bridge and lock tenders,TRANSPORTATION,4.0,4.0,Na,0.0,Na
+Parking lot attendants,TRANSPORTATION,57.0,49.0,Na,8.0,Na
+Automotive and watercraft service attendants,TRANSPORTATION,63.0,58.0,470.0,5.0,Na
+Transportation inspectors,TRANSPORTATION,21.0,14.0,Na,7.0,Na
+"Transportation attendants, except flight attendants",TRANSPORTATION,17.0,9.0,Na,8.0,Na
+Other transportation workers,TRANSPORTATION,39.0,35.0,Na,4.0,Na
+Conveyor operators and tenders,TRANSPORTATION,7.0,7.0,Na,0.0,Na
+Crane and tower operators,TRANSPORTATION,75.0,71.0,1016.0,4.0,Na
+"Dredge, excavating, and loading machine operators",TRANSPORTATION,25.0,25.0,Na,0.0,Na
+Hoist and winch operators,TRANSPORTATION,5.0,5.0,Na,0.0,Na
+Industrial truck and tractor operators,TRANSPORTATION,579.0,541.0,612.0,37.0,Na
+Cleaners of vehicles and equipment,TRANSPORTATION,222.0,200.0,498.0,22.0,Na
+"Laborers and freight, stock, and material movers, hand",TRANSPORTATION,1433.0,1214.0,547.0,219.0,455.0
+Machine feeders and offbearers,TRANSPORTATION,30.0,21.0,Na,9.0,Na
+"Packers and packagers, hand",TRANSPORTATION,385.0,158.0,462.0,227.0,424.0
+Pumping station operators,TRANSPORTATION,18.0,17.0,Na,1.0,Na
+Refuse and recyclable material collectors,TRANSPORTATION,72.0,66.0,496.0,6.0,Na
+Mine shuttle car operators,TRANSPORTATION,0.0,0.0,Na,0.0,Na
+"Tank car, truck, and ship loaders",TRANSPORTATION,6.0,6.0,Na,0.0,Na
+"Material moving workers, all other",TRANSPORTATION,37.0,32.0,Na,5.0,Na
